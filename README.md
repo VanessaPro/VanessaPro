@@ -1,7 +1,7 @@
 - 👋 Olá, Meu nome é @VanessaPro
 - 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou fazendo cursos paralelos Python, HTML, CSS, Javascript e C++.
-- 💞️ Estou procurando atuar na área de programação.
+- 💞️ Estou atuando na área de programação.
 
 
 
