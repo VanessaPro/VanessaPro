@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é @VanessaPro
-- 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas.
+- 👀 Formada em Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou fazendo cursos paralelos Python, HTML, CSS, Javascript, ReactJs, C++ e MySQL.
 - 💞️ Estou atuando na área de programação.
 
